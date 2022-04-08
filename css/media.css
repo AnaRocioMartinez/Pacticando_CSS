@@ -18,7 +18,23 @@
     .product-img {
         width: 140px;
         height: 140px;
-     }    
+     }
+     
+     .menu-navbar {
+         display: block;
+     }
+
+     .navbar-left ul{
+         display: none;
+     }
+
+     .navbar-email__menu {
+         display: none;
+     }
+
+     .product-detail {
+         width: 100%;
+     }
 
 }
 
